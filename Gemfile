@@ -12,6 +12,8 @@ gem 'bootstrap_form'
 gem 'pry'
 gem 'bcrypt'
 
+gem 'rails_12factor', group: :production
+
 group :development do
   gem 'byebug'
   gem 'web-console'
