@@ -1,4 +1,4 @@
-##RentAPet
+##Stack UnderTow
 
 ###Description
 This app is meant to be similar to StackOverflow. The main goal of this exercise is to use the bcrypt gem and implement authentication. 
